@@ -1,0 +1,135 @@
+{
+    "type": "FeatureCollection",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "features": [
+        {
+            "@id": "Q173270",
+            "uuid": "https://www.wikidata.org/wiki/Q173270",
+            "type": "Feature",
+            "properties": {
+                "title": "Veracruz",
+                "occurrences": "< à 5"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -96.912,
+                    19.1125
+                ]
+            },
+            "descriptions": [
+                {"value": "2 occurrences"}
+            ],
+            "names": [
+                {
+                    "toponym": "Veracruz",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
+                    "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_place": "Pueblos, ciudades y regiones",
+                    "type_text": "Coplas",
+                    "genre": "Profano",
+                    "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_122.xml",
+                    "title": "El hijo del berdugo",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_place": "Pueblos, ciudades y regiones",
+                    "type_text": "Relaciones de sucesos",
+                    "genre": "Profano",
+                    "date": "[s.a.]"
+                }
+            ]
+        },
+        {
+            "@id": "Q29",
+            "uuid": "https://www.wikidata.org/wiki/Q29",
+            "type": "Feature",
+            "properties": {
+                "title": "España",
+                "occurrences": "< à 5 fois"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.5,
+                    40.2
+                ]
+            },
+            "descriptions": [
+                {"value": "4 occurrences"}
+            ],
+            "names": [
+                {
+                    "toponym": "España",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_338.xml",
+                    "title": "Décimas trovadas, que cantan al valiente ejército español",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_place": "País, reinos e imperios",
+                    "type_text": "Décimas",
+                    "genre": "Profano",
+                    "date": "[s.a.]"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_374.xml",
+                    "title": "Décimas trovadas que cantan al valiente ejército español",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_place": "País, reinos e imperios",
+                    "type_text": "Décimas",
+                    "genre": "Profano",
+                    "date": "[s.a.]"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_023.xml",
+                    "title": "Don Juan de la Tierra",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_place": "País, reinos e imperios",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1850-1859"
+                }
+            ]
+        }
+    ]
+}

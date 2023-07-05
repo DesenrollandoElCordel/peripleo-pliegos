@@ -1,0 +1,27 @@
+{
+	"initial_bounds": [-165.021286, -15.163128, 77.029491, 64.184474],
+	"map_style": "./map-style-OSM.json",
+	"data": [
+	  {
+		"name": "Mark16",
+		"format": "LINKED_PLACES",
+		"src": "./data/mark16-lp.json",
+		"attribution": "MARK16 Dataviz © <a href=\"https://mark16.sib.swiss/\" target=\"_blank\"><i>MARK16</i> Partners & Contributors</a>"
+	  }
+	],
+	"facets": [
+	  { "name": "language", "path": ["relations", "lang"] },
+	  { "name": "manuscript", "path": ["relations", "title"] },
+	  { "name": "location", "path": ["relations", "label"] },
+	  "type"
+	],
+	"link_icons": [
+	  { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
+	  { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
+	  { "pattern": "en.wikipedia.org", "img": "./logos/en.wikipedia.org.png", "label": "Wikipedia" },
+	  { "pattern": "www.wikidata.org", "img": null, "label": "Wikidata" },
+	  { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
+	  { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
+	]
+  }
+  
