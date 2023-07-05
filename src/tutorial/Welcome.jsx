@@ -55,9 +55,9 @@ const Welcome = props => {
         </div>
 
         <div className="p6o-welcome-logos">
-          <img src="../../../logos/Desenrollando.logo.color.png" width="120px" style={{marginRight: 10 + 'px'}}/>
-          <img src="../../../logos/lettres_noir70.jpg" width="120px" style={{marginRight: 10 + 'px'}}/>
-          <img src="../../../logos/01-LOGO_FPFS_NOIR.png" width="200px"/>
+          <img src="logos/Desenrollando.logo.color.png" width="120px" style={{marginRight: 10 + 'px'}}/>
+          <img src="logos/lettres_noir70.jpg" width="120px" style={{marginRight: 10 + 'px'}}/>
+          <img src="logos/01-LOGO_FPFS_NOIR.png" width="200px"/>
         </div>
       </div>
     </div>,
