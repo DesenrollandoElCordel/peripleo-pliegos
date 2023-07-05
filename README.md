@@ -1,17 +1,20 @@
 # Peripleo | Desenrollando el cordel
 
-To come
+This map is part of the project [Desenrollando el cordel](https://desenrollandoelcordel.unige.ch/inicio.html) (2020-2024). It shows the places mentioned in the collection of Spanish chapbooks, held by the Library of the University of Geneva. With this visualisation, users can search places and filter them by dates, printers, places of publication or type of text, for example.
 
 *Peripleo* is a prototype application for the discovery and spatial visualisation of collection data, originally an initiative of the [Pelagios Network](https://pelagios.org/) and developed early in 2022 as part of the British Library's [**Locating a National Collection project**](https://britishlibrary.github.io/locating-a-national-collection/) (LaNC).
 
+![Preview of the map of the projet Desenrollando el cordel](map_preview.png)
 
 ## LinkedPlaces Data
 
-To come
+Our LP-format is available here: [https://github.com/DesenrollandoElCordel/peripleo-pliegos/blob/main/docs/data/data.json](https://github.com/DesenrollandoElCordel/peripleo-pliegos/blob/main/docs/data/data.json)
+It follows the model of the [MARK16 Dataviz](https://dataviz-mark16.sib.swiss/). Ce fichier a été généré automatiquement à partir d'un [fichier .csv](https://github.com/DesenrollandoElCordel/pliegos-ner/blob/main/moreno-ner/nerList_Moreno_enriched.csv) répertoriant l'ensemble des occurrences des noms de lieu dans notre corpus. Le script python utilisé est disponible ici : [https://github.com/DesenrollandoElCordel/code-python/blob/main/csv2json.py](https://github.com/DesenrollandoElCordel/code-python/blob/main/csv2json.py)
 
 ## Code Reuse
 
-To come
+Our application is based on the code developped by Élisa Nury for MARK16 Dataviz, which is part of the projet FNS [MARK16](https://mark16.sib.swiss/).
+We adapt the code to change the language to Spanish.
 
 ## Installation
 
