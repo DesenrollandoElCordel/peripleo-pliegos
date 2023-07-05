@@ -14,7 +14,7 @@ This file was automatically generated from a [.csv file](https://github.com/Dese
 
 ## Code Reuse
 
-Our application is based on the code developped by Élisa Nury for MARK16 Dataviz, which is part of the projet FNS [MARK16](https://mark16.sib.swiss/).
+Our application is based on the [code](https://github.com/sib-swiss/dh-dataviz) developped by Élisa Nury for MARK16 Dataviz, which is part of the project FNS [MARK16](https://mark16.sib.swiss/).
 We adapt the code to change the language to Spanish.
 
 ## Installation
