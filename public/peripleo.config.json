@@ -1,0 +1,30 @@
+{
+	"initial_bounds": [-165.021286, -15.163128, 77.029491, 64.184474],
+	"map_style": "./map-style-OSM.json",
+	"disableMyLocation": true,
+	"data": [
+	  {
+		"name": "pliegos",
+		"format": "LINKED_PLACES",
+		"src": "./data/data.json",
+		"attribution": "Desenrollando el cordel"
+	  }
+	],
+	"facets": [
+	  { "name": "occurrencias", "path": ["properties", "occurrences"] },
+	  { "name": "impressors", "path": ["relations", "printer"] },
+	  { "name": "lugares de publicación", "path": ["relations", "pubPlace"] },
+	  { "name": "typos de lugar", "path": ["properties", "type_place"] },
+	  { "name": "typos de texto", "path": ["relations", "type_text"] },
+	  { "name": "sagrado/profano", "path": ["relations", "genre"] }
+	],
+	"link_icons": [
+	  { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
+	  { "pattern": "www.geograph.org.uk", "img": "./logos/geograph.org.png", "label": "Geograph" },
+	  { "pattern": "en.wikipedia.org", "img": "./logos/en.wikipedia.org.png", "label": "Wikipedia" },
+	  { "pattern": "www.wikidata.org", "img": null, "label": "Wikidata" },
+	  { "pattern": "www.geonames.org", "img": null, "label": "GeoNames" },
+	  { "pattern": "sws.geonames.org", "img": null, "label": "GeoNames" }
+	]
+  }
+  
