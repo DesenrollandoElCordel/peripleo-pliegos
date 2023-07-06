@@ -247,13 +247,13 @@ const ItemListCard = props => {
                 className="p6o-external-link-label"
                 aria-disabled="true"
                 title={manuscript.relationTo}>
-                  {manuscript.type_text}
+                  {manuscript.printer} - {manuscript.pubPlace} - {manuscript.date}
               </a>
               <a 
                 className="p6o-external-link-label"
                 aria-disabled="true"
                 title={manuscript.relationTo}>
-                  {manuscript.printer}
+                  {manuscript.type_text}
               </a>
               {manuscript.content &&
                 <a 

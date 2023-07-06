@@ -15,8 +15,9 @@
 	  { "name": "impressors", "path": ["relations", "printer"] },
 	  { "name": "lugares de publicación", "path": ["relations", "pubPlace"] },
 	  { "name": "typos de lugar", "path": ["properties", "type_place"] },
-	  { "name": "typos de texto", "path": ["relations", "type_text"] },
-	  { "name": "sagrado/profano", "path": ["relations", "genre"] }
+	  { "name": "typos de texto", "path": ["relations", "type_text"]},
+	  { "name": "sagrado/profano", "path": ["relations", "genre"]},
+	  { "name": "fecha", "path": ["relations", "date"]}
 	],
 	"link_icons": [
 	  { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },

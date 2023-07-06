@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "@context": "mark16-linkedplaces-context.jsonld",
+    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
     "features": [
         {
             "@id": "Q8717",
@@ -5123,7 +5123,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -6491,7 +6491,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -6669,7 +6669,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -6967,7 +6967,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -7195,7 +7195,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -7663,7 +7663,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -10399,7 +10399,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -14605,7 +14605,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -14683,7 +14683,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -14741,7 +14741,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -14809,7 +14809,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -14848,8 +14848,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    -1.64323,
-                    42.81687
+                    -1.65,
+                    42.816666666667
                 ]
             },
             "descriptions": [
@@ -14877,7 +14877,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -14965,7 +14965,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15023,7 +15023,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15081,7 +15081,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15229,7 +15229,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15287,7 +15287,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15365,7 +15365,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15423,7 +15423,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -15531,7 +15531,7 @@
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_035.xml",
                     "title": "Coplas nuevas glosadas en décimas para cantar los aficionados",
                     "printer": "José María Moreno",
-                    "pubPlace": "Carmona\n                     (Sevilla)",
+                    "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Coplas",
                     "genre": "Profano",
                     "date": "1850-1859"
@@ -16814,8 +16814,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                     -0.87734,
-                    41.65606
+                    -0.88333333333333,
+                    41.65
                 ]
             },
             "descriptions": [
@@ -19499,11 +19499,11 @@
             ]
         },
         {
-            "@id": "Q43",
-            "uuid": "https://www.wikidata.org/wiki/Q43",
+            "@id": "Q31945",
+            "uuid": "https://www.wikidata.org/wiki/Q31945",
             "type": "Feature",
             "properties": {
-                "title": "turquia",
+                "title": "Peninsula de Arabia",
                 "occurrences": "<= 10",
                 "type_place": "Pueblos/ciudades/regiones"
             },
@@ -19519,7 +19519,7 @@
             ],
             "names": [
                 {
-                    "toponym": "turquia",
+                    "toponym": "Peninsula de Arabia",
                     "lang": "es"
                 }
             ],
