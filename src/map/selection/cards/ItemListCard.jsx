@@ -247,7 +247,13 @@ const ItemListCard = props => {
                 className="p6o-external-link-label"
                 aria-disabled="true"
                 title={manuscript.relationTo}>
-                  {manuscript.lang}
+                  {manuscript.type_text}
+              </a>
+              <a 
+                className="p6o-external-link-label"
+                aria-disabled="true"
+                title={manuscript.relationTo}>
+                  {manuscript.printer}
               </a>
               {manuscript.content &&
                 <a 

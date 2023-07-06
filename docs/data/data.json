@@ -1,6 +1,6 @@
 {
     "type": "FeatureCollection",
-    "@context": "https://w3id.org/locolligo/contexts/linkedplaces.jsonld",
+    "@context": "mark16-linkedplaces-context.jsonld",
     "features": [
         {
             "@id": "Q8717",
@@ -803,54 +803,6 @@
                     "type_text": "Relaciones",
                     "genre": "Profano",
                     "date": "[s.a]"
-                }
-            ]
-        },
-        {
-            "@id": "Q8717",
-            "uuid": "https://www.wikidata.org/wiki/Q8717",
-            "type": "Feature",
-            "properties": {
-                "title": "Tablada",
-                "occurrences": "<= 10",
-                "type_place": "Pueblos/ciudades/regiones"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    -6.00754722,
-                    37.36398333
-                ]
-            },
-            "descriptions": [
-                {"value": "1 ocurrencia(s)"}
-            ],
-            "names": [
-                {
-                    "toponym": "Tablada",
-                    "lang": "es"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://pleiades.stoa.org/places/746826"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "http://www.geonames.org/350564/"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_227.xml",
-                    "title": "Nueva relación jocosa del patán de Sevilla",
-                    "printer": "José María Moreno",
-                    "pubPlace": "Carmona (Sevilla)",
-                    "type_text": "Relaciones",
-                    "genre": "Profano",
-                    "date": "1850-1859"
                 }
             ]
         },
@@ -1891,7 +1843,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "220 ocurrencia(s)"}
+                {"value": "222 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -2409,6 +2361,16 @@
                     "type_text": "Pasillos",
                     "genre": "Profano",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
@@ -3559,7 +3521,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "2 ocurrencia(s)"}
+                {"value": "5 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -3597,6 +3559,16 @@
                     "type_text": "Relaciones",
                     "genre": "Profano",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 }
             ]
         },
@@ -3753,7 +3725,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "32 ocurrencia(s)"}
+                {"value": "35 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -3861,6 +3833,16 @@
                     "type_text": "Sainetes",
                     "genre": "Profano",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
@@ -4445,7 +4427,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "93 ocurrencia(s)"}
+                {"value": "94 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -4716,6 +4698,16 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_057.xml",
                     "title": "Relación nueva. El valor bien empleado por la hermosa doña Blanca",
                     "printer": "José María Moreno",
@@ -4931,7 +4923,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "3 ocurrencia(s)"}
+                {"value": "5 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -4969,6 +4961,16 @@
                     "type_text": "Descripciones",
                     "genre": "Profano",
                     "date": "1840-1849"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
@@ -6841,7 +6843,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "38 ocurrencia(s)"}
+                {"value": "44 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -7002,6 +7004,16 @@
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
                     "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_296.xml",
                     "title": "Relación andaluza titulada Los lunares a mi niña",
                     "printer": "José María Moreno",
@@ -7119,7 +7131,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "27 ocurrencia(s)"}
+                {"value": "29 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -7207,6 +7219,16 @@
                     "type_text": "",
                     "genre": "Profano",
                     "date": "[s.a]"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
@@ -11069,7 +11091,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "7 ocurrencia(s)"}
+                {"value": "8 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -11107,6 +11129,16 @@
                     "type_text": "Romances",
                     "genre": "Sagrado",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 }
             ]
         },
@@ -12520,7 +12552,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Portugal",
-                "occurrences": "<= 10",
+                "occurrences": "<= 50",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -12531,7 +12563,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "8 ocurrencia(s)"}
+                {"value": "11 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -12579,6 +12611,16 @@
                     "type_text": "Romances",
                     "genre": "Sagrado",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 },
                 {
                     "relationType": "gvp:aat2208_locus-setting_for",
@@ -16879,8 +16921,8 @@
             ]
         },
         {
-            "@id": "Q71",
-            "uuid": "https://www.wikidata.org/wiki/Q71",
+            "@id": "Q1449",
+            "uuid": "https://www.wikidata.org/wiki/Q1449",
             "type": "Feature",
             "properties": {
                 "title": "Génova",
@@ -19461,7 +19503,7 @@
             "uuid": "https://www.wikidata.org/wiki/Q43",
             "type": "Feature",
             "properties": {
-                "title": "Turquia",
+                "title": "turquia",
                 "occurrences": "<= 10",
                 "type_place": "Pueblos/ciudades/regiones"
             },
@@ -19477,7 +19519,7 @@
             ],
             "names": [
                 {
-                    "toponym": "Turquia",
+                    "toponym": "turquia",
                     "lang": "es"
                 }
             ],
@@ -19763,6 +19805,582 @@
                     "type_text": "",
                     "genre": "Profano",
                     "date": "1850-1859"
+                }
+            ]
+        },
+        {
+            "@id": "Q23071",
+            "uuid": "https://www.wikidata.org/wiki/Q23071",
+            "type": "Feature",
+            "properties": {
+                "title": "Pedralba",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.7260062,
+                    39.6053522
+                ]
+            },
+            "descriptions": [
+                {"value": "8 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Pedralba",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q559300",
+            "uuid": "https://www.wikidata.org/wiki/Q559300",
+            "type": "Feature",
+            "properties": {
+                "title": "Cúllar",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.5763888888889,
+                    37.583611111111
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Cúllar",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q2455550",
+            "uuid": "https://www.wikidata.org/wiki/Q2455550",
+            "type": "Feature",
+            "properties": {
+                "title": "Torres de Serranos",
+                "occurrences": "<= 10",
+                "type_place": "Monumentos/edificios"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.375933,
+                    39.4793
+                ]
+            },
+            "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Torres de Serranos",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q1312844",
+            "uuid": "https://www.wikidata.org/wiki/Q1312844",
+            "type": "Feature",
+            "properties": {
+                "title": "Alberique",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.52111111111111,
+                    39.116666666667
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Alberique",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q574179",
+            "uuid": "https://www.wikidata.org/wiki/Q574179",
+            "type": "Feature",
+            "properties": {
+                "title": "Gestalgar",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.8337822,
+                    39.6044915
+                ]
+            },
+            "descriptions": [
+                {"value": "2 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Gestalgar",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q472307",
+            "uuid": "https://www.wikidata.org/wiki/Q472307",
+            "type": "Feature",
+            "properties": {
+                "title": "Bugarra",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.77333333333333,
+                    39.609722222222
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Bugarra",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q1407170",
+            "uuid": "https://www.wikidata.org/wiki/Q1407170",
+            "type": "Feature",
+            "properties": {
+                "title": "La Mojonera",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.6837945,
+                    36.7522747
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "La Mojonera",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q1184963",
+            "uuid": "https://www.wikidata.org/wiki/Q1184963",
+            "type": "Feature",
+            "properties": {
+                "title": "islas Alhucemas",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.89611111,
+                    35.215
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "islas Alhucemas",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q987433",
+            "uuid": "https://www.wikidata.org/wiki/Q987433",
+            "type": "Feature",
+            "properties": {
+                "title": "Villamarchante",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.6225,
+                    39.567777777778
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Villamarchante",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q1645781",
+            "uuid": "https://www.wikidata.org/wiki/Q1645781",
+            "type": "Feature",
+            "properties": {
+                "title": "Caudiel",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.5683653,
+                    39.9473348
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Caudiel",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q302099",
+            "uuid": "https://www.wikidata.org/wiki/Q302099",
+            "type": "Feature",
+            "properties": {
+                "title": "Requena",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -1.1023083,
+                    39.488538
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Requena",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q12193",
+            "uuid": "https://www.wikidata.org/wiki/Q12193",
+            "type": "Feature",
+            "properties": {
+                "title": "Brest",
+                "occurrences": "<= 10",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -4.4869444444444,
+                    48.39
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Brest",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_294.xml",
+                    "title": "Romance del valiente Santa Cruz",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "1860-1869"
                 }
             ]
         },
