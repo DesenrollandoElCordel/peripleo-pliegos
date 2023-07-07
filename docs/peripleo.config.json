@@ -16,7 +16,8 @@
 	  { "name": "lugares de publicación", "path": ["relations", "pubPlace"] },
 	  { "name": "tipos de lugar", "path": ["properties", "type_place"] },
 	  { "name": "tipos de texto", "path": ["relations", "type_text"] },
-	  { "name": "sagrado/profano", "path": ["relations", "genre"] }
+	  { "name": "sagrado/profano", "path": ["relations", "genre"] },
+	  { "name": "fecha", "path": ["relations", "date"] }
 	],
 	"link_icons": [
 	  { "pattern": "maps.google.com",  "img": "./logos/maps.google.com.png", "label": "Google Maps" },
