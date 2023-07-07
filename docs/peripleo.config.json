@@ -11,11 +11,11 @@
 	  }
 	],
 	"facets": [
-	  { "name": "occurrencias", "path": ["properties", "occurrences"] },
-	  { "name": "impressors", "path": ["relations", "printer"] },
+	  { "name": "ocurrencias", "path": ["properties", "occurrences"] },
+	  { "name": "impresores", "path": ["relations", "printer"] },
 	  { "name": "lugares de publicación", "path": ["relations", "pubPlace"] },
-	  { "name": "typos de lugar", "path": ["properties", "type_place"] },
-	  { "name": "typos de texto", "path": ["relations", "type_text"] },
+	  { "name": "tipos de lugar", "path": ["properties", "type_place"] },
+	  { "name": "tipos de texto", "path": ["relations", "type_text"] },
 	  { "name": "sagrado/profano", "path": ["relations", "genre"] }
 	],
 	"link_icons": [
