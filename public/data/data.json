@@ -8,7 +8,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sevilla",
-                "occurrences": "<= 100",
+                "occurrences": "51-100 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -506,7 +506,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Triana",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -604,7 +604,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Granada",
-                "occurrences": "<= 100",
+                "occurrences": "51-100 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -812,7 +812,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Inglaterra",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -990,7 +990,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ginebra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -1058,7 +1058,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Belén",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -1166,7 +1166,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Indias Orientales",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -1214,7 +1214,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ámsterdam",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -1262,7 +1262,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Perú",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -1350,7 +1350,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alcalá de Henares",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -1398,7 +1398,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tetuán",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -1506,7 +1506,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jarama",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -1554,7 +1554,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Francia",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -1832,7 +1832,7 @@
             "type": "Feature",
             "properties": {
                 "title": "España",
-                "occurrences": "> 100",
+                "occurrences": "Más de 100 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -2860,7 +2860,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Roma",
-                "occurrences": "<= 100",
+                "occurrences": "51-100 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -3148,7 +3148,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Calvario",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -3306,7 +3306,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Torre de Comares",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -3364,7 +3364,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Vega de Granada",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -3432,7 +3432,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Santa Fe",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -3510,7 +3510,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Talavera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -3578,7 +3578,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Adra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -3636,7 +3636,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alhambra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -3714,7 +3714,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Andalucía",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -4042,7 +4042,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cerezo de Río Tirón",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -4220,7 +4220,7 @@
             "type": "Feature",
             "properties": {
                 "title": "África",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -4358,7 +4358,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Mula",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -4416,7 +4416,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Madrid",
-                "occurrences": "<= 100",
+                "occurrences": "51-100 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -4834,7 +4834,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Aranjuez",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -4912,7 +4912,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Navarra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -4990,7 +4990,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Pirineos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -5048,7 +5048,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Barcelona",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -5236,7 +5236,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Hungría",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -5334,7 +5334,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Getsemaní",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -5392,7 +5392,7 @@
             "type": "Feature",
             "properties": {
                 "title": "París",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -5490,7 +5490,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Principado de Moscú",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -5538,7 +5538,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Constantinopla",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -5656,7 +5656,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Polonia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -5704,7 +5704,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Monte Etna",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -5752,7 +5752,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Marruecos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -5850,7 +5850,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tracia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -5898,7 +5898,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Albania",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -6036,7 +6036,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cólquida",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -6094,7 +6094,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Esparta",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -6152,7 +6152,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Italia",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -6310,7 +6310,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Rusia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -6368,7 +6368,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alemania",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -6446,7 +6446,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Valladolid",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -6574,7 +6574,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cádiz",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -6832,7 +6832,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Valencia",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7120,7 +7120,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Málaga",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7348,7 +7348,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Algeciras",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7406,7 +7406,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Marbella",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7474,7 +7474,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Estepona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7522,7 +7522,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Palma de Mallorca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7570,7 +7570,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Monturque",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7618,7 +7618,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Habana",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7766,7 +7766,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Rota",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7824,7 +7824,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Chiclana de la Frontera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7882,7 +7882,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sanlúcar de Barrameda",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -7940,7 +7940,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Eslavonia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8018,7 +8018,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alba",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8096,7 +8096,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Austria",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -8214,7 +8214,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Argel",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8432,7 +8432,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alicante",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8520,7 +8520,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Túnez",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -8588,7 +8588,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cartagena",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8716,7 +8716,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Peñacerrada",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8764,7 +8764,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Vizcaya",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8832,7 +8832,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Simancas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -8920,7 +8920,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Golfo de Corinto",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -8968,7 +8968,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Santa Cruz de Tenerife",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9036,7 +9036,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sicilia",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9154,7 +9154,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Messina",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9202,7 +9202,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Turquía",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -9370,7 +9370,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Malta",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -9448,7 +9448,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Capadocia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9496,7 +9496,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Trebisonda",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9544,7 +9544,7 @@
             "type": "Feature",
             "properties": {
                 "title": "El Cairo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9602,7 +9602,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Armenia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -9650,7 +9650,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Venecia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9718,7 +9718,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Flandes",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9846,7 +9846,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Florencia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9894,7 +9894,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Toscana",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -9942,7 +9942,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Milán",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10030,7 +10030,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Antequera",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10168,7 +10168,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Troya",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10256,7 +10256,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Palermo",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10334,7 +10334,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Nápoles",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10452,7 +10452,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cabra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10560,7 +10560,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Toledo",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10728,7 +10728,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Carabanchel Alto",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10776,7 +10776,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Despeñaperros",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -10824,7 +10824,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ceuta",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -10992,7 +10992,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tánger",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11080,7 +11080,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lisboa",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11148,7 +11148,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jerusalén",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11266,7 +11266,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Guadiana",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -11314,7 +11314,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Motril",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11362,7 +11362,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Meca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11440,7 +11440,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Irlanda",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -11518,7 +11518,7 @@
             "type": "Feature",
             "properties": {
                 "title": "océano Atlántico",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -11576,7 +11576,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Oriente",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11714,7 +11714,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Noruega",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -11772,7 +11772,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Montilla",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11820,7 +11820,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Illescas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11868,7 +11868,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Extremadura",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -11936,7 +11936,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Calatayud",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12014,7 +12014,7 @@
             "type": "Feature",
             "properties": {
                 "title": "El Viso del Alcor",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12142,7 +12142,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Morella",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12190,7 +12190,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alcañiz",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12238,7 +12238,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Carmona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12336,7 +12336,7 @@
             "type": "Feature",
             "properties": {
                 "title": "El Puerto de Santa María",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12384,7 +12384,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jerez de la Frontera",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12395,7 +12395,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "22 ocurrencia(s)"}
+                {"value": "23 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -12543,6 +12543,16 @@
                     "type_text": "Relaciones",
                     "genre": "Sagrado",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_260.xml",
+                    "title": "Joselillo el Gitano",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Diálogos",
+                    "genre": "Profano",
+                    "date": "1850-1859"
                 }
             ]
         },
@@ -12552,7 +12562,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Portugal",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -12660,7 +12670,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bilbao",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12738,7 +12748,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Aragón",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12856,7 +12866,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Carboneras",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12904,7 +12914,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Puebla de Benifasar",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -12952,7 +12962,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cuenca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13030,7 +13040,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Murcia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13148,7 +13158,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jumilla",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13196,7 +13206,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Parra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13254,7 +13264,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Guinea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -13302,7 +13312,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Teba",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13360,7 +13370,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Soria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13428,7 +13438,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Molino de Martos (Córdoba)",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -13476,7 +13486,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Dinamarca",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -13584,7 +13594,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Suecia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -13642,7 +13652,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cataluña",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13730,7 +13740,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Nazaret",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13858,7 +13868,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ponferrada",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -13906,7 +13916,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Imperio otomano",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -13964,7 +13974,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Países Bajos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -14042,7 +14052,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Babilonia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14100,7 +14110,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alcobilla",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14148,7 +14158,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Grecia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -14236,7 +14246,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Guadalquivir",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -14284,7 +14294,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Palencia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14352,7 +14362,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Córdoba",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14570,7 +14580,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Santa Ana",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14648,7 +14658,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Santo Domingo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14706,7 +14716,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Buenos Aires",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14774,7 +14784,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Puerto Rico",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -14842,7 +14852,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Pamplona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -14930,7 +14940,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cuba",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -14988,7 +14998,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Loriguilla",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15046,7 +15056,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Almería",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15194,7 +15204,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tolón",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15252,7 +15262,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Veracruz",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15330,7 +15340,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Matanzas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15388,7 +15398,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Londres",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15496,7 +15506,7 @@
             "type": "Feature",
             "properties": {
                 "title": "República Popular China",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -15574,7 +15584,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Baeza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15632,7 +15642,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Baraona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15680,7 +15690,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Perpiñán",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15738,7 +15748,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Gibraltar",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -15926,7 +15936,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lorca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -15974,7 +15984,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Moyá",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16022,7 +16032,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Asia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -16090,7 +16100,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tartaria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16138,7 +16148,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Versalles",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16196,7 +16206,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Real Monasterio de San Lorenzo de El Escorial",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -16264,7 +16274,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Castilla la Vieja",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16312,7 +16322,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Mancha",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16360,7 +16370,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Canarias",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16418,7 +16428,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Chipre",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -16466,7 +16476,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Toro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16514,7 +16524,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Indias Occidentales",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -16662,7 +16672,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cruz del Coso",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -16710,7 +16720,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sierra Morena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -16808,7 +16818,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Zaragoza",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16926,7 +16936,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Génova",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -16974,7 +16984,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Marsella",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17022,7 +17032,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jaén",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17110,7 +17120,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Andújar",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17168,7 +17178,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Almagro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17216,7 +17226,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Villamanrique",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17264,7 +17274,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Prado",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17332,7 +17342,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alajeró",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17380,7 +17390,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Valverde",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17428,7 +17438,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Valdemoro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17476,7 +17486,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ebro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -17534,7 +17544,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Caspe",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17592,7 +17602,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Guadalajara",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17650,7 +17660,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alfocea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17708,7 +17718,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Belchite",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17766,7 +17776,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Albacete",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17824,7 +17834,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Manila",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17912,7 +17922,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alcántara",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -17960,7 +17970,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Santo Stefano Quisquina",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18018,7 +18028,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Monte Pellegrino",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -18076,7 +18086,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Rosas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18134,7 +18144,7 @@
             "type": "Feature",
             "properties": {
                 "title": "El Salvador",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -18202,7 +18212,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Frigia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18260,7 +18270,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Úbeda",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18308,7 +18318,7 @@
             "type": "Feature",
             "properties": {
                 "title": "río Beiro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -18366,7 +18376,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Fuente del Arco",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18424,7 +18434,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Rute",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18482,7 +18492,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alaejos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18540,7 +18550,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Gabaldón",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18598,7 +18608,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Viena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18656,7 +18666,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Carrión de los Condes",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18704,7 +18714,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Salamanca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18762,7 +18772,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Belmonte de Miranda",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18810,7 +18820,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Burgos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18858,7 +18868,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ávila",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18906,7 +18916,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Segovia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -18984,7 +18994,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alcoy",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19032,7 +19042,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Trujillo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19080,7 +19090,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bargas",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19138,7 +19148,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Mequinez",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19186,7 +19196,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Melilla",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19254,7 +19264,7 @@
             "type": "Feature",
             "properties": {
                 "title": "León",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19312,7 +19322,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cabo Negro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -19360,7 +19370,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sierra Bermeja",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -19408,7 +19418,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Río Martín",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19456,7 +19466,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cantabria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19504,7 +19514,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Peninsula de Arabia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19572,7 +19582,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lima",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19640,7 +19650,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Porcuna",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19698,7 +19708,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Filipinas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -19766,7 +19776,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lebrija",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19814,7 +19824,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Pedralba",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19862,7 +19872,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cúllar",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -19910,7 +19920,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Torres de Serranos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -19958,7 +19968,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alberique",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20006,7 +20016,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Gestalgar",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20054,7 +20064,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bugarra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20102,7 +20112,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Mojonera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20150,7 +20160,7 @@
             "type": "Feature",
             "properties": {
                 "title": "islas Alhucemas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20198,7 +20208,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Villamarchante",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20246,7 +20256,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Caudiel",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20294,7 +20304,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Requena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20342,7 +20352,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Brest",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20390,7 +20400,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Collado de la Vera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20438,7 +20448,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Alcarria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20486,7 +20496,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Torre de David",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -20544,7 +20554,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Barbastro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20592,7 +20602,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Albuera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20640,7 +20650,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Castillejos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20688,7 +20698,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tajo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -20736,7 +20746,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Acebedo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20784,7 +20794,7 @@
             "type": "Feature",
             "properties": {
                 "title": "América",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -20842,7 +20852,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Puerto Real",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20890,7 +20900,7 @@
             "type": "Feature",
             "properties": {
                 "title": "California",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -20938,7 +20948,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Siria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -20996,7 +21006,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lucena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21064,7 +21074,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Genil",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -21112,7 +21122,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Zuriza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21160,7 +21170,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tarifa",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21208,7 +21218,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Egipto",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -21316,7 +21326,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Brabante Septentrional",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21364,7 +21374,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Galia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21412,7 +21422,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bolonia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21460,7 +21470,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cartago",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21508,7 +21518,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Libia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -21556,7 +21566,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Zalamea de la Serena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21604,7 +21614,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Llerena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21652,7 +21662,7 @@
             "type": "Feature",
             "properties": {
                 "title": "río Tíber",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -21700,7 +21710,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laodicea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21748,7 +21758,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ostia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21796,7 +21806,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ciudad del Vaticano",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -21844,7 +21854,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alejandría",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21902,7 +21912,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Archidona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -21960,7 +21970,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Riogordo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22018,7 +22028,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ronda",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22126,7 +22136,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alameda",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22174,7 +22184,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Salobreña",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22232,7 +22242,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Alpujarra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22290,7 +22300,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alcolea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22348,7 +22358,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Montejícar",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22406,7 +22416,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Galera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22454,7 +22464,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lombardía",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22502,7 +22512,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Pavía",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22550,7 +22560,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bugía",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22598,7 +22608,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Montemarciano",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22646,7 +22656,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Antioquía",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22694,7 +22704,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tiro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22742,7 +22752,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Samaria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -22830,7 +22840,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Israel",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -22928,7 +22938,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Líbano",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -22976,7 +22986,7 @@
             "type": "Feature",
             "properties": {
                 "title": "río Jordán",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23024,7 +23034,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Nilo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23072,7 +23082,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tigris",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23120,7 +23130,7 @@
             "type": "Feature",
             "properties": {
                 "title": "monte Sinaí",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23168,7 +23178,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Galilea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23236,7 +23246,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Arcos de la Frontera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23247,7 +23257,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "7 ocurrencia(s)"}
+                {"value": "8 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -23295,6 +23305,16 @@
                     "type_text": "Romances",
                     "genre": "Profano",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_239.xml",
+                    "title": "Relación para alabar a los novios en cualquier boda",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1850-1859"
                 }
             ]
         },
@@ -23304,7 +23324,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Gante",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23362,7 +23382,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Orán",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23430,7 +23450,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Valle de Josafat",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23478,7 +23498,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Coruña",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23526,7 +23546,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bayona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23574,7 +23594,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Fuente del Potro",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -23622,7 +23642,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Carpio del Campo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23680,7 +23700,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Écija",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23728,7 +23748,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ciudad Rodrigo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23776,7 +23796,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Badajoz",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23844,7 +23864,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Zafra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -23892,7 +23912,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Majaceite",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23940,7 +23960,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Parnaso",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -23998,7 +24018,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tarragona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24056,7 +24076,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Gerona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24104,7 +24124,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Berbería",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24152,7 +24172,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Mediñá",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24210,7 +24230,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Utrera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24268,7 +24288,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Judea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24336,7 +24356,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cafarnaúm",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24384,7 +24404,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Canaán",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24432,7 +24452,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Galicia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24490,7 +24510,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Villamartín",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24548,7 +24568,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Torrecampo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24596,7 +24616,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Zuheros",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24644,7 +24664,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Osuna",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24712,7 +24732,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Baena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24760,7 +24780,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Luque",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24808,7 +24828,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Herrera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24856,7 +24876,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Campillos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24904,7 +24924,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Huesca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -24952,7 +24972,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sierra de Guadalupe",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -25000,7 +25020,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Isla de la Cartuja",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25048,7 +25068,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Loreto",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25096,7 +25116,7 @@
             "type": "Feature",
             "properties": {
                 "title": "San Salvador",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25164,7 +25184,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Frías",
-                "occurrences": "<= 50",
+                "occurrences": "11-50 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25222,7 +25242,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Japón",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -25280,7 +25300,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Vélez-Málaga",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25328,7 +25348,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Baza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25376,7 +25396,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cuarte de Huerva",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25434,7 +25454,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Monzón",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25492,7 +25512,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sierra de Andía",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -25550,7 +25570,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jaca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25608,7 +25628,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Morales del Rey",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25656,7 +25676,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Pedraja de Portillo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25704,7 +25724,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Berga",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25752,7 +25772,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Huelva",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25800,7 +25820,7 @@
             "type": "Feature",
             "properties": {
                 "title": "México",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -25848,7 +25868,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Brasil",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -25896,7 +25916,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Menorca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25944,7 +25964,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sion",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -25992,7 +26012,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Medellín",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26050,7 +26070,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Torre de Santa María",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26098,7 +26118,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Viterbo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26146,7 +26166,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Puerto de la Cruz",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26194,7 +26214,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Laza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26242,7 +26262,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Monte Carmelo",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -26290,7 +26310,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tebaida",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26338,7 +26358,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Villafranca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26386,7 +26406,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Montes Torozos",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Sitios naturales"
             },
             "geometry": {
@@ -26434,7 +26454,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Villanueva de los Infantes",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26482,7 +26502,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Ciudad Real",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26530,7 +26550,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cazalla de la Sierra",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26578,7 +26598,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cantillana",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26626,7 +26646,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Guadix",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26694,7 +26714,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Orihuela",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26742,7 +26762,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Atienza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26790,7 +26810,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sigüenza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26838,7 +26858,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Berlanga",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26886,7 +26906,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Almazán",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26934,7 +26954,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tarazona",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -26982,7 +27002,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Rioja",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27030,7 +27050,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Asturias",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27078,7 +27098,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Gijón",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27126,7 +27146,7 @@
             "type": "Feature",
             "properties": {
                 "title": "La Bañeza",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27174,7 +27194,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Benavente",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27222,7 +27242,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Coca",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27270,7 +27290,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Guadarrama",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27318,7 +27338,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Castilla y León",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27366,7 +27386,7 @@
             "type": "Feature",
             "properties": {
                 "title": "reino de León",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -27414,7 +27434,7 @@
             "type": "Feature",
             "properties": {
                 "title": "San Lorenzo de El Escorial",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27462,7 +27482,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Sesa",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27510,7 +27530,7 @@
             "type": "Feature",
             "properties": {
                 "title": "San Sebastián",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27558,7 +27578,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cañete la Real",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27616,7 +27636,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cañete",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27674,7 +27694,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Arriate",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27722,7 +27742,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Caria",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27770,7 +27790,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Rodas",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27818,7 +27838,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Bañuelos de Bureba",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27866,7 +27886,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tarancón",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -27914,7 +27934,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Angola",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -27962,7 +27982,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Alba de Tormes",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28010,7 +28030,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Saldaña",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28058,7 +28078,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Churriana de la Vega",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -28106,7 +28126,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Potosí",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28154,7 +28174,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Padua",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28202,7 +28222,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Tampico",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28250,7 +28270,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Martinica",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28298,7 +28318,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Colombia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -28346,7 +28366,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Reino de Prusia",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -28394,7 +28414,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Baviera",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28442,7 +28462,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Santa Gadea del Cid",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28490,7 +28510,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Zamora",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28538,7 +28558,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Cardeña",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28586,7 +28606,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Villena",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28634,7 +28654,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Palestina",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Países/reinos/imperios/continentes"
             },
             "geometry": {
@@ -28682,7 +28702,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Jauja",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28730,7 +28750,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Puente romano de Mantible",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Monumentos/edificios"
             },
             "geometry": {
@@ -28778,7 +28798,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Nicea",
-                "occurrences": "<= 10",
+                "occurrences": "1-10 veces",
                 "type_place": "Pueblos/ciudades/regiones"
             },
             "geometry": {
@@ -28815,6 +28835,582 @@
                     "printer": "José María Moreno",
                     "pubPlace": "Carmona (Sevilla)",
                     "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1850-1859"
+                }
+            ]
+        },
+        {
+            "@id": "Q20617724",
+            "uuid": "https://www.wikidata.org/wiki/Q20617724",
+            "type": "Feature",
+            "properties": {
+                "title": "Río Araviana",
+                "occurrences": "1-10 veces",
+                "type_place": "Sitios naturales"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -2.122672,
+                    41.689628
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Río Araviana",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_235.xml",
+                    "title": "Jocosa relación para reír y pasar el tiempo",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1850-1859"
+                }
+            ]
+        },
+        {
+            "@id": "Q795441",
+            "uuid": "https://www.wikidata.org/wiki/Q795441",
+            "type": "Feature",
+            "properties": {
+                "title": "Departamento de Jalapa",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -89.981111,
+                    14.633889
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Departamento de Jalapa",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_123.xml",
+                    "title": "Los cinco hijos de un parto",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1850-1859"
+                }
+            ]
+        },
+        {
+            "@id": "Q620765",
+            "uuid": "https://www.wikidata.org/wiki/Q620765",
+            "type": "Feature",
+            "properties": {
+                "title": "Lidia",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    30,
+                    40
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Lidia",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_360.xml",
+                    "title": "Relación nueva en todas ciencias y artes titulada El exceso en las mujeres",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q620765",
+            "uuid": "https://www.wikidata.org/wiki/Q620765",
+            "type": "Feature",
+            "properties": {
+                "title": "Montegil",
+                "occurrences": "1-10 veces",
+                "type_place": "Monumentos/edificios"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.06914,
+                    36.811522
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Montegil",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_342.xml",
+                    "title": "Pregunta que hace un curioso a su amigo aventurero",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Descripción",
+                    "genre": "Profano",
+                    "date": "[S.A]"
+                }
+            ]
+        },
+        {
+            "@id": "Q6058431",
+            "uuid": "https://www.wikidata.org/wiki/Q6058431",
+            "type": "Feature",
+            "properties": {
+                "title": "Palacio de los Marqueses de Recaño",
+                "occurrences": "1-10 veces",
+                "type_place": "Monumentos/edificios"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.298166,
+                    36.532077
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Palacio de los Marqueses de Recaño",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_356.xml",
+                    "title": "Relación burlesca. La calle de la feria",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "[S.A]"
+                }
+            ]
+        },
+        {
+            "@id": "Q841589",
+            "uuid": "https://www.wikidata.org/wiki/Q841589",
+            "type": "Feature",
+            "properties": {
+                "title": "Castilleja de la Cuesta",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -6.051667,
+                    37.386389
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Castilleja de la Cuesta",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_065.xml",
+                    "title": "La renegada de Valladolid",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "[S.A]"
+                }
+            ]
+        },
+        {
+            "@id": "Q574340",
+            "uuid": "https://www.wikidata.org/wiki/Q574340",
+            "type": "Feature",
+            "properties": {
+                "title": "Las Gabias",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.669167,
+                    37.136389
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Las Gabias",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_017.xml",
+                    "title": "Relación del Jitano de Cartagena",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "[S.A]"
+                }
+            ]
+        },
+        {
+            "@id": "Q998805",
+            "uuid": "https://www.wikidata.org/wiki/Q998805",
+            "type": "Feature",
+            "properties": {
+                "title": "Modona",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.706944,
+                    36.821667
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Modona",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_065.xml",
+                    "title": "La renegada de Valladolid",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "[S.A]"
+                }
+            ]
+        },
+        {
+            "@id": "Q909718",
+            "uuid": "https://www.wikidata.org/wiki/Q909718",
+            "type": "Feature",
+            "properties": {
+                "title": "Pinto",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.699444,
+                    40.241111
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Pinto",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_151.xml",
+                    "title": "Los amores de Madrid",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q909718",
+            "uuid": "https://www.wikidata.org/wiki/Q909718",
+            "type": "Feature",
+            "properties": {
+                "title": "Pinto",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -3.699444,
+                    40.241111
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Pinto",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_151.xml",
+                    "title": "Los amores de Madrid",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Relaciones",
+                    "genre": "Profano",
+                    "date": "1860-1869"
+                }
+            ]
+        },
+        {
+            "@id": "Q125293",
+            "uuid": "https://www.wikidata.org/wiki/Q125293",
+            "type": "Feature",
+            "properties": {
+                "title": "Puebla de Zaragoza",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -98.217778,
+                    19.051389
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "Puebla de Zaragoza",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_203.xml",
+                    "title": "Décimas andaluzas para cantar los aficionados",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Canciones",
+                    "genre": "Profano",
+                    "date": "1850-1859"
+                }
+            ]
+        },
+        {
+            "@id": "Q5965542",
+            "uuid": "https://www.wikidata.org/wiki/Q5965542",
+            "type": "Feature",
+            "properties": {
+                "title": "La Vizana",
+                "occurrences": "1-10 veces",
+                "type_place": "Pueblos/ciudades/regiones"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -5.806667,
+                    42.130278
+                ]
+            },
+            "descriptions": [
+                {"value": "1 ocurrencia(s)"}
+            ],
+            "names": [
+                {
+                    "toponym": "La Vizana",
+                    "lang": "es"
+                }
+            ],
+            "links": [
+                {
+                    "type": "closeMatch",
+                    "identifier": "https://pleiades.stoa.org/places/746826"
+                },
+                {
+                    "type": "closeMatch",
+                    "identifier": "http://www.geonames.org/350564/"
+                }
+            ],
+            "relations": [
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Moreno_228.xml",
+                    "title": "Siete hermanos vandoleros",
+                    "printer": "José María Moreno",
+                    "pubPlace": "Carmona (Sevilla)",
+                    "type_text": "Jácaras",
                     "genre": "Profano",
                     "date": "1850-1859"
                 }
