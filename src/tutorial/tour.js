@@ -28,7 +28,7 @@ const tour = [{
   title: 'Ya está.',
   content: 
     <span>
-      Gracias por su tiempo. Diviértete explorando nuestro mapa para el proyecto Desenrollando el cordel.
+      Gracias por su tiempo. Diviértase explorando nuestro mapa para el proyecto Desenrollando el cordel.
       Si quiere saber más sobre el software Peripleo, <a href="https://github.com/britishlibrary/peripleo-lanc" target="_blank">haga clic aquí</a>.
     </span>
 }];
