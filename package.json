@@ -40,6 +40,7 @@
     "flexsearch": "^0.7.21",
     "framer-motion": "^6.2.6",
     "maplibre-gl": "^2.1.6",
+    "n": "^9.2.3",
     "ngraph.graph": "^20.0.0",
     "rbush": "^3.0.1",
     "rbush-knn": "^3.0.1",
@@ -55,6 +56,7 @@
     "react-transition-group": "^4.4.2",
     "recoil": "^0.6.1",
     "sanitize-html": "^2.7.0",
+    "stable": "^0.1.8",
     "use-debounce": "^7.0.1"
   }
 }
