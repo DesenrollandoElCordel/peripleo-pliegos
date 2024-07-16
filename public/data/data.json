@@ -44569,7 +44569,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "2 ocurrencia(s)"}
+                {"value": "3 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -44604,6 +44604,16 @@
                     "title": "Historia del infante Don Pedro de Portugal",
                     "printer": "[s.n.]",
                     "pubPlace": "Palma",
+                    "type_text": "Historias",
+                    "genre": "Profano",
+                    "date": "[s.a.]"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Varios_455.xml",
+                    "title": "Historia del infante don Pedro de Portugal",
+                    "printer": "Sucesores de Hernando",
+                    "pubPlace": "Madrid",
                     "type_text": "Historias",
                     "genre": "Profano",
                     "date": "[s.a.]"
@@ -57019,54 +57029,6 @@
             ]
         },
         {
-            "@id": "Q21198444",
-            "uuid": "https://www.wikidata.org/wiki/Q21198444",
-            "type": "Feature",
-            "properties": {
-                "title": "Rhin",
-                "occurrences": "1-10 veces",
-                "type_place": "Sitios naturales"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.2214,
-                    52.745
-                ]
-            },
-            "descriptions": [
-                {"value": "1 ocurrencia(s)"}
-            ],
-            "names": [
-                {
-                    "toponym": "Rhin",
-                    "lang": "es"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://pleiades.stoa.org/places/746826"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "http://www.geonames.org/350564/"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Varios_301.xml",
-                    "title": "Historia de la gloriosa guerra de África en 1859",
-                    "printer": "Hernando",
-                    "pubPlace": "Madrid",
-                    "type_text": "Romances",
-                    "genre": "Profano",
-                    "date": "[s.a.]"
-                }
-            ]
-        },
-        {
             "@id": "Q1382252",
             "uuid": "https://www.wikidata.org/wiki/Q1382252",
             "type": "Feature",
@@ -57767,7 +57729,7 @@
                 ]
             },
             "descriptions": [
-                {"value": "1 ocurrencia(s)"}
+                {"value": "2 ocurrencia(s)"}
             ],
             "names": [
                 {
@@ -57795,6 +57757,16 @@
                     "type_text": "Relaciones",
                     "genre": "Profano",
                     "date": "1850-1859"
+                },
+                {
+                    "relationType": "gvp:aat2208_locus-setting_for",
+                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Varios_301.xml",
+                    "title": "Historia de la gloriosa guerra de África en 1859",
+                    "printer": "Hernando",
+                    "pubPlace": "Madrid",
+                    "type_text": "Romances",
+                    "genre": "Profano",
+                    "date": "[s.a.]"
                 }
             ]
         },
@@ -71229,54 +71201,6 @@
                     "type_text": "Historias",
                     "genre": "Profano",
                     "date": "1860-1869"
-                }
-            ]
-        },
-        {
-            "@id": "Q193785",
-            "uuid": "https://www.wikidata.org/wiki/Q193785",
-            "type": "Feature",
-            "properties": {
-                "title": "monte Tabor",
-                "occurrences": "1-10 veces",
-                "type_place": "Sitios naturales"
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    35.392916666667,
-                    32.68625
-                ]
-            },
-            "descriptions": [
-                {"value": "1 ocurrencia(s)"}
-            ],
-            "names": [
-                {
-                    "toponym": "monte Tabor",
-                    "lang": "es"
-                }
-            ],
-            "links": [
-                {
-                    "type": "closeMatch",
-                    "identifier": "https://pleiades.stoa.org/places/746826"
-                },
-                {
-                    "type": "closeMatch",
-                    "identifier": "http://www.geonames.org/350564/"
-                }
-            ],
-            "relations": [
-                {
-                    "relationType": "gvp:aat2208_locus-setting_for",
-                    "relationTo": "https://desenrollandoelcordel.unige.ch/Pliegos/Varios_455.xml",
-                    "title": "Historia del infante don Pedro de Portugal",
-                    "printer": "Sucesores de Hernando",
-                    "pubPlace": "Madrid",
-                    "type_text": "Historias",
-                    "genre": "Profano",
-                    "date": "[s.a.]"
                 }
             ]
         },
